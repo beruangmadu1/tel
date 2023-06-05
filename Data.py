@@ -51,7 +51,7 @@ class Data:
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man></a>
+ • Source Code: <a href='https://t.me/saintkiraa/9'>@SaintKiraa</a>
 
 👨‍💻 Develoved by </b><a href='https://t.me/saintkiraa/9'>@SaintKiraa</a>
 """
